@@ -1,7 +1,7 @@
 # What's Up!, I’m Jacob 👋
 💻 Application Developer | DevOps Engineer Intern @Deloitte
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently going to SPC for my BA Degree in Technology Development & Management
 - 🌱 I’m currently learning Java & Web-based appplications
 - 💬 Ask me about Minecraft
 - 📫 How to reach me: https://www.linkedin.com/in/jacobnealyyearupunited/
