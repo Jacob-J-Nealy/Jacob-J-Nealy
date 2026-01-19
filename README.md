@@ -1,10 +1,14 @@
-# What's Up! I’m Jacob 👋
-💻 Application Developer | 📱 Software Engineer @Deloitte
+# Hi, I’m Jacob 👋
+💻 Application Developer | Year Up United @ Deloitte
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- - 💬 Ask me about ...
+  - - 📫 How to reach me: ...
 
 I build reliable, maintainable software and value discipline,
 clarity, and finishing what I start.
 
-** ⚙️ Tech:** DevOps • Java • SQL • Git • Bash • Python
+🛠️ Tech: Java • SQL • Git • Bash
 
 <!--
 **Jacob-J-Nealy/Jacob-J-Nealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
