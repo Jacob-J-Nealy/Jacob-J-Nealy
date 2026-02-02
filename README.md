@@ -1,5 +1,5 @@
 # What's Up!, I’m Jacob 👋
-🎓 CS Student @Saint Pete College |💻 Application Developer | DevOps Engineer Intern @Deloitte
+🎓 CS Student @Saint Pete College |💻 Application Developer & SWE | Lookin' for Employment!
 
 - 🔭 I’m currently going to SPC for my BA Degree in Technology Development & Management
 - 🌱 I’m currently learning Java & Web-based appplications
@@ -9,4 +9,4 @@
 I build reliable, maintainable software and value discipline,
 clarity, and finishing what I start.
 
-🛠️ Tech: Java • SQL • Git • Bash
+🛠️ Tech: Java • Powershell •  HTML • CSS • ( + other stuff to sound smart)
